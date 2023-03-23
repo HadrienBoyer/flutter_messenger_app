@@ -1,6 +1,6 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/bytebakers/development/flutter"
+export "FLUTTER_ROOT=/usr/local/Caskroom/flutter/3.7.7/flutter"
 export "FLUTTER_APPLICATION_PATH=/Users/bytebakers/Library/Mobile Documents/com~apple~CloudDocs/Developer/projects/flutter/flutter_messenger_app/flutter_messenger"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
