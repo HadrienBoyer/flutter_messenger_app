@@ -29,6 +29,12 @@
 		"peacock.color": "#A0D94B",
 		"peacock.affectPanelBorder": true,
 		"peacock.darkForegroundColor": "#15202b",
+		"githubPullRequests.remotes": [
+			"origin",
+			"upstream",
+			"flutter_messenger",
+			"flutter_messenger/main"
+		],
 	},
 	"launch": {
 		"activityBar.activeBackground": "#2f72aa",
