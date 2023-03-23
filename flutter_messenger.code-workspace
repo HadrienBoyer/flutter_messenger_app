@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#b6e275",
+			"activityBar.background": "#b6e275",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#2c90d3",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"commandCenter.border": "#15202b99",
+			"sash.hoverBorder": "#b6e275",
+			"statusBar.background": "#a0d94b",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#88c72a",
+			"statusBarItem.remoteBackground": "#a0d94b",
+			"statusBarItem.remoteForeground": "#15202b",
+			"titleBar.activeBackground": "#a0d94b",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#a0d94b99",
+			"titleBar.inactiveForeground": "#15202b99",
+			"panel.border": "#b6e275"
+		},
+		"editor.unfoldOnClickAfterEndOfLine": true,
+		"peacock.color": "#A0D94B",
+		"peacock.affectPanelBorder": true,
+		"peacock.darkForegroundColor": "#15202b",
+	},
+	"launch": {
+		"activityBar.activeBackground": "#2f72aa",
+		"activityBar.activeForeground": "#e7e7e7",
+		"activityBar.background": "#AA2FA4",
+	},
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "Flutter Run",
+				"command": "flutter run",
+				"type": "shell",
+				"args": [],
+				"problemMatcher": [
+					"$tsc"
+				],
+				"presentation": {
+					"reveal": "always"
+				},
+				"group": "build"
+			}
+		]
+	}
+}
